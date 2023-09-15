@@ -25,6 +25,7 @@
 ## Description
 
 <h3> Cadastro de produtos feito em NestJs. CRUD Completo</h3>
+<h3> * Utilizando o prisma ORM e o SWAGGER API</h3>
 
 ## Installation
 
